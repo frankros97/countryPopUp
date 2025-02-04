@@ -1,1 +1,1 @@
-console.log('fast update')
+console.log('la cdn purge funziona')
